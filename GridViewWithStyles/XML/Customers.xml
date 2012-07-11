@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customers>
+    <customer>
+        <id>1</id>
+        <name>Emad Mokhtar</name>
+        <phone>(123) 5678-1234</phone>
+    </customer>
+    <customer>
+        <id>2</id>
+        <name>Amr Mokhtar</name>
+        <phone>(123) 1234-5678</phone>
+    </customer>
+    <customer>
+        <id>3</id>
+        <name>John Smith</name>
+        <phone>(123) 2835-0912</phone>
+    </customer>
+</customers>
